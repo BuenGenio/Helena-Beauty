@@ -1,5 +1,6 @@
 import type { Service } from "../types/service";
 import { SERVICE_ORDER } from "./serviceMeta";
+import { publicUrl } from "../utils/publicUrl";
 
 type ServiceSlug = (typeof SERVICE_ORDER)[number]["slug"];
 
@@ -13,20 +14,20 @@ type ServiceSlug = (typeof SERVICE_ORDER)[number]["slug"];
  * 1515377905703-c4788e51af15, 1487412720507-e7ab37603c6f, 1522337360788-8b13dee7a37e,
  * 1570172619644-dfd03ed5d881, 1596755389378-c31d21fd1273.
  */
-const CARD_SRC_BY_SLUG: Record<ServiceSlug, string> = {
-  "lymphatic-drainage-post-op": "/images/services/lymphatic-drainage-post-op.jpg",
-  "sport-recovery-massage": "/images/services/sport-recovery-massage.jpg",
-  "back-problems-massage": "/images/services/back-problems-massage.jpg",
-  "ems-tens-recovery": "/images/services/ems-tens-recovery.jpg",
-  "wood-therapy": "/images/services/wood-therapy.jpg",
-  "tummy-tuck-support": "/images/services/tummy-tuck-support.jpg",
-  "body-contouring": "/images/services/body-contouring.jpg",
-  ipl: "/images/services/ipl.jpg",
-  "laser-hair-removal": "/images/services/laser-hair-removal.jpg",
-  hydrafacial: "/images/services/hydrafacial.jpg",
-  microdermabrasion: "/images/services/microdermabrasion.jpg",
+const CARD_FILE_BY_SLUG: Record<ServiceSlug, string> = {
+  "lymphatic-drainage-post-op": "images/services/lymphatic-drainage-post-op.jpg",
+  "sport-recovery-massage": "images/services/sport-recovery-massage.jpg",
+  "back-problems-massage": "images/services/back-problems-massage.jpg",
+  "ems-tens-recovery": "images/services/ems-tens-recovery.jpg",
+  "wood-therapy": "images/services/wood-therapy.jpg",
+  "tummy-tuck-support": "images/services/tummy-tuck-support.jpg",
+  "body-contouring": "images/services/body-contouring.jpg",
+  ipl: "images/services/ipl.jpg",
+  "laser-hair-removal": "images/services/laser-hair-removal.jpg",
+  hydrafacial: "images/services/hydrafacial.jpg",
+  microdermabrasion: "images/services/microdermabrasion.jpg",
 };
 
 export function serviceCardImageSrc(slug: Service["slug"]): string {
-  return CARD_SRC_BY_SLUG[slug as ServiceSlug];
+  return publicUrl(CARD_FILE_BY_SLUG[slug as ServiceSlug]);
 }
