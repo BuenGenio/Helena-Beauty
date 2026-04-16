@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "title": "Helena Beauty | Massage & Aesthetics Aberdeen",
+    "description": "Helena Beauty — therapeutic massage, lymphatic care, body contouring, and advanced skin treatments in Aberdeen."
+  },
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "contact": "Contact",
+    "aberdeen": "Aberdeen",
+    "toggleMenu": "Toggle menu",
+    "language": "Language",
+    "langEn": "English",
+    "langUk": "Ukrainian",
+    "langPl": "Polish"
+  },
+  "categories": {
+    "massage": "Massage & recovery",
+    "body": "Body contouring",
+    "skin": "Skin & laser"
+  },
+  "footer": {
+    "tagline": "Massage, lymphatic care, body contouring & skin treatments — Aberdeen.",
+    "rights": "© {year} Helena Beauty. All rights reserved.",
+    "photoBefore": "Photography on this site is sourced from",
+    "photoBetween": "and used under the",
+    "photoEnd": ".",
+    "unsplash": "Unsplash",
+    "license": "Unsplash License"
+  },
+  "hero": {
+    "attribution": "Unsplash",
+    "licenseLabel": "Unsplash License",
+    "alts": [
+      "Therapist pouring warm massage oil onto a client’s back in a bright treatment room",
+      "Close-up of therapeutic hands working along a client’s spine on a massage table",
+      "Calm spa facial moment with soft towels and gentle hands near the face",
+      "Sunlit ocean wave on the North Sea — evoking Aberdeen’s coastal setting",
+      "Golden-hour light over a green Scottish valley and stone spiral path"
+    ],
+    "carouselLabel": "Image carousel, slide {n} of {total}",
+    "prev": "Previous slide",
+    "next": "Next slide",
+    "goTo": "Go to slide {n}",
+    "reducedMotion": "Slideshow autoplay is off when reduced motion is enabled. Showing the first image."
+  },
+  "home": {
+    "kicker": "Aberdeen · massage & aesthetics",
+    "headline": "Calm, capable hands for recovery, contour, and radiant skin.",
+    "lead": "From lymphatic support and sports massage to wood therapy, advanced body contouring, and results-driven facials — every treatment is explained clearly so you know what to expect.",
+    "ctaServices": "Explore services",
+    "ctaContact": "Book or message",
+    "popularTitle": "Popular treatments",
+    "popularBody": "A snapshot of what clients book most often — each has its own page with benefits and who it suits best.",
+    "seeAll": "See all services →",
+    "pillar1Title": "Evidence-led",
+    "pillar1Body": "Honest timelines, aftercare you can follow, and no overstated promises — especially around surgery and laser.",
+    "pillar2Title": "Whole-person",
+    "pillar2Body": "Training load, desk posture, hydration, and stress all shape outcomes; we factor them into your plan.",
+    "pillar3Title": "Discreet care",
+    "pillar3Body": "A quiet, professional environment where medical history and body goals are handled respectfully."
+  },
+  "servicesPage": {
+    "kicker": "Services",
+    "title": "Treatments tailored to your body and skin goals",
+    "intro": "Eleven dedicated pages — browse by category, then open any treatment for benefits, ideal candidates, and important session notes.",
+    "footer": "{count} treatments listed — last updated {year}."
+  },
+  "serviceDetail": {
+    "back": "← All services",
+    "sessionPrefix": "Good to know:",
+    "benefitsTitle": "Benefits you can expect",
+    "idealTitle": "Who benefits most",
+    "ctaTitle": "Ready to book this treatment?",
+    "ctaBody": "Share your goals and any medical history so we can confirm suitability.",
+    "ctaButton": "Get in touch"
+  },
+  "contactPage": {
+    "kicker": "Contact",
+    "title": "Let’s plan your next visit",
+    "intro": "The fastest way to reach Helena Beauty is through Instagram direct messages — mention the treatment you’re interested in and any relevant medical or surgical history.",
+    "instagramLabel": "Instagram",
+    "instagramDm": "DM for availability & questions",
+    "openProfile": "Open profile →",
+    "placeholderTitle": "Add your studio details here",
+    "placeholderBody": "Replace this block with phone, email, booking link, or address when you’re ready — the layout is set up for one primary CTA (Instagram) plus optional secondary channels."
+  },
+  "card": {
+    "viewDetails": "View details",
+    "imageAlts": {
+      "lymphatic-drainage-post-op": "Therapist’s hands performing gentle, slow-pressure work along a client’s arm",
+      "sport-recovery-massage": "Athlete stretching outdoors, suggesting recovery between training sessions",
+      "back-problems-massage": "Client lying face down on a massage table while the back receives focused work",
+      "ems-tens-recovery": "Clinical setting with medical equipment suggesting adjunct recovery modalities",
+      "wood-therapy": "Spa still life with stones and natural textures evoking sculpting body rituals",
+      "tummy-tuck-support": "Soft spa linens and calm lighting suggesting gentle post-surgical comfort care",
+      "body-contouring": "Hands-on contouring session smoothing and shaping along the waist and hips",
+      "ipl": "Close-up of a makeup brush near the eye, evoking precise facial light treatments",
+      "laser-hair-removal": "Beauty treatment moment with brushes and soft light on smooth skin",
+      "hydrafacial": "Facial treatment with hands and soft towels in a tranquil spa environment",
+      "microdermabrasion": "Skincare consultation with products suggesting exfoliation and texture renewal"
+    }
+  }
+}

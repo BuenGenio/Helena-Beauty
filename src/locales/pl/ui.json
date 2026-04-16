@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "title": "Helena Beauty | Masaż i estetyka w Aberdeen",
+    "description": "Helena Beauty — masaż terapeutyczny, drenaż limfatyczny, modelowanie sylwetki i zaawansowane zabiegi skórne w Aberdeen."
+  },
+  "nav": {
+    "home": "Strona główna",
+    "services": "Usługi",
+    "contact": "Kontakt",
+    "aberdeen": "Aberdeen",
+    "toggleMenu": "Otwórz menu",
+    "language": "Język",
+    "langEn": "Angielski",
+    "langUk": "Ukraiński",
+    "langPl": "Polski"
+  },
+  "categories": {
+    "massage": "Masaż i regeneracja",
+    "body": "Modelowanie sylwetki",
+    "skin": "Skóra i laser"
+  },
+  "footer": {
+    "tagline": "Masaż, drenaż limfatyczny, modelowanie sylwetki i zabiegi na skórę — Aberdeen.",
+    "rights": "© {year} Helena Beauty. Wszelkie prawa zastrzeżone.",
+    "photoBefore": "Zdjęcia na stronie pochodzą z",
+    "photoBetween": "i są używane na warunkach",
+    "photoEnd": ".",
+    "unsplash": "Unsplash",
+    "license": "licencji Unsplash"
+  },
+  "hero": {
+    "attribution": "Unsplash",
+    "licenseLabel": "Licencja Unsplash",
+    "alts": [
+      "Terapeuta wlewa ciepły olejek do masażu na plecy klienta w jasnym gabinecie",
+      "Zbliżenie dłoni podczas terapeutycznego masażu wzdłuż kręgosłupa na stole",
+      "Spokojny moment zabiegu twarzowego z ręcznikami i delikatnym dotykiem",
+      "Nasłoneczniona fala Morza Północnego — nastrój wybrzeża Aberdeen",
+      "Złota godzina nad zieloną doliną w Szkocji i kamienną spiralą ścieżki"
+    ],
+    "carouselLabel": "Karuzela zdjęć, slajd {n} z {total}",
+    "prev": "Poprzedni slajd",
+    "next": "Następny slajd",
+    "goTo": "Przejdź do slajdu {n}",
+    "reducedMotion": "Autoodtwarzanie jest wyłączone przy zmniejszonej animacji. Pokazano pierwsze zdjęcie."
+  },
+  "home": {
+    "kicker": "Aberdeen · masaż i estetyka",
+    "headline": "Spokojne, pewne dłonie dla regeneracji, modelowania i promiennej skóry.",
+    "lead": "Od wsparcia limfatycznego i masażu sportowego po terapię drewnem, zaawansowane modelowanie ciała i zabiegi twarzy z mierzalnym efektem — każda usługa jest jasno opisana, abyś wiedział, czego się spodziewać.",
+    "ctaServices": "Zobacz usługi",
+    "ctaContact": "Rezerwacja lub wiadomość",
+    "popularTitle": "Popularne zabiegi",
+    "popularBody": "Wybór tego, co klienci rezerwują najczęściej — każda usługa ma osobną stronę z korzyściami i informacją, komu najbardziej pasuje.",
+    "seeAll": "Wszystkie usługi →",
+    "pillar1Title": "Oparte na faktach",
+    "pillar1Body": "Rzetelne terminy, domowa pielęgnacja po zabiegach i bez przesady — zwłaszcza przy chirurgii i laserze.",
+    "pillar2Title": "Cała osoba",
+    "pillar2Body": "Obciążenie treningowe, poza przy biurku, nawodnienie i stres wpływają na efekt — uwzględniamy to w planie.",
+    "pillar3Title": "Dyskrecja",
+    "pillar3Body": "Cicha, profesjonalna przestrzeń, gdzie historia medyczna i cele ciała są traktowane z szacunkiem."
+  },
+  "servicesPage": {
+    "kicker": "Usługi",
+    "title": "Zabiegi dopasowane do celów ciała i skóry",
+    "intro": "Jedenaście osobnych stron — przejrzyj kategorie, potem otwórz zabieg, by zobaczyć korzyści, dla kogo jest najlepszy oraz ważne uwagi.",
+    "footer": "{count} zabiegów na liście — zaktualizowano {year}."
+  },
+  "serviceDetail": {
+    "back": "← Wszystkie usługi",
+    "sessionPrefix": "Warto wiedzieć:",
+    "benefitsTitle": "Korzyści, których możesz się spodziewać",
+    "idealTitle": "Komu pomoże najbardziej",
+    "ctaTitle": "Gotowy na rezerwację?",
+    "ctaBody": "Opisz cele i historię zdrowia, abyśmy mogli potwierdzić wskazania.",
+    "ctaButton": "Kontakt"
+  },
+  "contactPage": {
+    "kicker": "Kontakt",
+    "title": "Zaplanujmy Twoją wizytę",
+    "intro": "Najszybszy kontakt z Helena Beauty to bezpośrednie wiadomości na Instagramie — podaj interesujący Cię zabieg oraz istotną historię medyczną lub pooperacyjną.",
+    "instagramLabel": "Instagram",
+    "instagramDm": "DM w sprawie terminu i pytań",
+    "openProfile": "Otwórz profil →",
+    "placeholderTitle": "Dodaj dane salonu tutaj",
+    "placeholderBody": "Zamień ten blok na telefon, e-mail, link do rezerwacji lub adres, gdy będziesz gotowy — układ jest przygotowany pod główne CTA na Instagramie."
+  },
+  "card": {
+    "viewDetails": "Szczegóły",
+    "imageAlts": {
+      "lymphatic-drainage-post-op": "Dłonie terapeutki wykonujące delikatny, powolny masaż wzdłuż ramienia klientki",
+      "sport-recovery-massage": "Sportowiec rozciąga się na zewnątrz — nawiązanie do regeneracji między treningami",
+      "back-problems-massage": "Klientka leży przodem na stole do masażu, plecy są poddawane skupionej pracy",
+      "ems-tens-recovery": "Kliniczne otoczenie ze sprzętem medycznym sugerującym modalności wspomagające regenerację",
+      "wood-therapy": "Martwa natura w spa z kamieniami i naturalnymi fakturami kojarzącymi się z rytuałami modelowania ciała",
+      "tummy-tuck-support": "Miękkie ręczniki spa i spokojne światło sugerujące delikatną opiekę pooperacyjną",
+      "body-contouring": "Sesja modelowania dłońmi — wygładzanie i kształtowanie bioder i talii",
+      "ipl": "Zbliżenie na pędzel do makijażu przy oku — skojarzenie z precyzyjnymi zabiegami światłem na twarz",
+      "laser-hair-removal": "Chwila zabiegu beauty z pędzlami i miękkim światłem na gładkiej skórze",
+      "hydrafacial": "Zabieg twarzy z dłońmi i miękkimi ręcznikami w spokojnej atmosferze spa",
+      "microdermabrasion": "Konsultacja pielęgnacyjna z kosmetykami sugerująca złuszczanie i odnowę tekstury skóry"
+    }
+  }
+}

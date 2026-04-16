@@ -1,0 +1,196 @@
+{
+  "lymphatic-drainage-post-op": {
+    "title": "Drenaż limfatyczny i opieka pooperacyjna",
+    "shortTitle": "Drenaż limfatyczny",
+    "tagline": "Delikatna, rytmiczna praca wspierająca regenerację i komfort po zabiegu lub przy obrzękach.",
+    "intro": "Manualny drenaż limfatyczny wykorzystuje lekkie, precyzyjne ruchy, aby wspierać przepływ limfy. Często wybierany po zabiegach estetycznych lub ortopedycznych, gdy nogi i ramiona wydają się stale ciężkie. Sesje są spokojne, bez pośpiechu i dopasowane do etapu rekonwalescencji.",
+    "benefits": [
+      "Może zmniejszyć uczucie ściągania i ciężkości w obrabianych okolicach",
+      "Wspiera naturalną równowagę płynów wraz z odpoczynkiem i zaleceniami medycznymi",
+      "Kojący dotyk, który obniża reakcję stresową w okresie powrotu do zdrowia",
+      "Może uzupełniać zalecenia chirurgiczne po uzyskaniu zgody"
+    ],
+    "idealFor": [
+      "Osoby po zabiegu z zgodą lekarza, szukające dodatkowej, komfortowej opieki",
+      "Ktokolwiek odczuwa ciężkość kończyn po podróży, pracy przy biurku lub w ciąży (za zgodą lekarza)",
+      "Osoby przygotowujące się do operacji, które chcą poznać delikatne ruchy i pielęgnację domową"
+    ],
+    "sessionNote": "Zawsze stosuj się do zaleceń chirurga lub lekarza rodzinnego. Drenaż limfatyczny jest wspomagający i nie zastępuje leczenia medycznego."
+  },
+  "sport-recovery-massage": {
+    "title": "Masaż sportowy i regeneracyjny",
+    "shortTitle": "Masaż sportowy",
+    "tagline": "Ukierunkowana praca nad zmęczonymi mięśniami, intensywnym treningiem i szybszym powrotem między jednostkami.",
+    "intro": "Masaż sportowy łączy głębszy nacisk tam, gdzie to potrzebne, z technikami „spłukującymi”, które wspierają regenerację. Skupiamy się na grupach mięśniowych najbardziej obciążanych — bieganie, siłownia, pływanie czy sporty zespołowe — abyś wyszedł bardziej rozluźniony i świadomy ciała.",
+    "benefits": [
+      "Łagodzi opóźniony ból mięśni po ciężkim treningu",
+      "Poprawia krążenie lokalne i wsparcie odbudowy tkanek",
+      "Rozluźnia chroniczne napięcie barków, bioder i łydek",
+      "Daje reset postawy i oddechu przed kolejnym treningiem"
+    ],
+    "idealFor": [
+      "Biegacze, rowerzyści i osoby trenujące regularnie na siłowni",
+      "Amatorzy intensywnie zwiększający kilometraż lub obciążenie",
+      "Każdy wracający do aktywności po przerwie, kto chce uporządkowanej pracy na tkankach miękkich"
+    ]
+  },
+  "back-problems-massage": {
+    "title": "Masaż terapeutyczny pleców",
+    "shortTitle": "Masaż pleców",
+    "tagline": "Uważna praca nad kręgosłupem, biodrami i barkami, które dźwigają codzienne obciążenie.",
+    "intro": "Dyskomfort pleców często wiąże się z siedzącą postawą, pracą fizyczną, stresem lub starymi urazami. Sesja mapuje napięcia od szyi do miednicy, łączy techniki mięśnopowięziowe, punkty spustowe i kojące głaskanie, aby przywrócić swobodę ruchu.",
+    "benefits": [
+      "Zmniejsza „straż” napięcia w odcinku piersiowym i lędźwiowym",
+      "Zwiększa świadomość postawy i nawyków oddechowych",
+      "Łagodzi napięcia odbite na pośladki i tylną powierzchnię uda",
+      "Tworzy przestrzeń na delikatne ćwiczenia mobilności między wizytami"
+    ],
+    "idealFor": [
+      "Pracownicy biurowi ze sztywnym odcinkiem piersiowym i skróconymi zginaczami bioder",
+      "Rodzice i opiekunowie często podnoszący i skręcający tułów",
+      "Rzemieślnicy i kierowcy potrzebujący wsparcia między wizytami u fizjoterapeuty"
+    ],
+    "sessionNote": "Przy ostrej dyskopatii, objawach nerwowych lub świeżym urazie najpierw skonsultuj się z lekarzem."
+  },
+  "ems-tens-recovery": {
+    "title": "Regeneracja EMS / TENS",
+    "shortTitle": "EMS / TENS",
+    "tagline": "Modalności elektryczne do „budzenia” ospałych mięśni i uspokajania nadpobudliwych.",
+    "intro": "Elektrostymulacja mięśni (EMS) i przezskórna stymulacja nerwów (TENS) to dodatki obok pracy manualnej. EMS wspiera wzorce skurczów użyteczne w reedukacji; TENS oddziałuje na ścieżki czuciowe, by modulować dyskomfort, gdy jest to wskazane.",
+    "benefits": [
+      "EMS może pomóc przywrócić kontrolowane pobudzenie po unieruchomieniu",
+      "TENS może dać krótkotrwałą ulgę czuciową w wybranych przypadkach",
+      "Przydatny most między masażami dla sportowców z napiętym grafikiem",
+      "Indywidualny układ elektrod z poszanowaniem komfortu i bezpieczeństwa"
+    ],
+    "idealFor": [
+      "Sportowcy z zgodą na dodatkowe narzędzia regeneracji",
+      "Klienci łączący terapię manualną z aktywną rehabilitacją",
+      "Osoby szukające niefarmakologicznych strategii komfortu"
+    ],
+    "sessionNote": "Przeciwwskazania: ciąża (bez zgody lekarza), rozrusznik serca, epilepsja i niektóre schorzenia skóry — podaj pełną historię zdrowia wcześniej."
+  },
+  "wood-therapy": {
+    "title": "Terapia drewnem (maderoterapia)",
+    "shortTitle": "Terapia drewnem",
+    "tagline": "Drewniane narzędzia do mobilizacji tkanki i modelowania sylwetki.",
+    "intro": "Terapia drewnem wykorzystuje ergonomiczne przyrządy do rytmicznej stymulacji skóry i powierzchownej powięzi. Popularna przy celach konturowych — daje poczucie energii, ale pozostaje uporządkowana, z pełną uwagą na każdy obszar.",
+    "benefits": [
+      "Wspiera mikrokrążenie i świeży, jędrny wygląd",
+      "Pomaga rozluźniać „stagnacyjne” strefy przy nawodnieniu i ruchu",
+      "Mocny nacisk bez męczenia dłoni terapeuty",
+      "Może być łączona z masażem manualnym w kompleksowej sesji"
+    ],
+    "idealFor": [
+      "Klienci pracujący nad udami, brzuchem, ramionami lub plecami",
+      "Osoby lubiące głęboki, rytmiczny masaż z jasnym schematem",
+      "Każdy utrzymujący efekty między innymi zabiegami"
+    ]
+  },
+  "tummy-tuck-support": {
+    "title": "Sesje wsparcia po abdominoplastyce",
+    "shortTitle": "Opieka po tummy tuck",
+    "tagline": "Specjalistyczna opieka pooperacyjna z poszanowaniem gojenia i protokołu chirurga.",
+    "intro": "Po abdominoplastyce ważny jest cierpliwy, świadomy dotyk. Po pisemnej zgodie sesje mogą obejmować delikatne techniki limfatyczne, edukację ruchomości blizny i oddech chroniący szwy, przywracając pewność w ruchu.",
+    "benefits": [
+      "Wspiera stosowanie kompresji i zaleceń ułożenia",
+      "Pracuje z tkanką o wrażeniu włóknistym zgodnie z etapem gojenia",
+      "Towarzyszy w naturalnych wahaniach rekonwalescencji",
+      "Dopasowuje tempo do kamieni milowych zespołu klinicznego"
+    ],
+    "idealFor": [
+      "Klienci po abdominoplastyce z wyraźną zgodą chirurga na masaż",
+      "Osoby szukające strukturalnej opieki poza domową piłką",
+      "Każdy, kto potrzebuje empatycznego wsparcia w pierwszych tygodniach po operacji"
+    ],
+    "sessionNote": "Obowiązkowa pisemna zgoda medyczna i przejrzysta komunikacja z zespołem chirurgicznym."
+  },
+  "body-contouring": {
+    "title": "Modelowanie sylwetki",
+    "shortTitle": "Modelowanie sylwetki",
+    "tagline": "Niechirurgiczne podejścia do kształtu, faktury i jędrności w czasie.",
+    "intro": "Modelowanie łączy ocenę, metody manualne i czasem protokoły wspomagane technologią, aby wygładzać i ujędrniać wybrane partie. Efekty budują się między wizytami raz z nawodnieniem, dietą i aktywnością.",
+    "benefits": [
+      "Indywidualna mapa priorytetów: talia, boki, ramiona",
+      "Łączenie technik manualnych z narzędziami, gdy to właściwe",
+      "Wskazówki domowe przedłużające efekt zabiegu",
+      "Opcjonalne zdjęcia postępów"
+    ],
+    "idealFor": [
+      "Klienci przy stabilnej wadze, którzy chcą dopracowania, a nie gwałtownej utraty masy",
+      "Osoby między progresją na siłowni a ważnym wydarzeniem",
+      "Każdy wybierający stopniowe, niechirurgiczne ścieżki"
+    ]
+  },
+  "ipl": {
+    "title": "IPL (Intensywne światło impulsowe)",
+    "shortTitle": "IPL",
+    "tagline": "Szerokie spektrum światła na przebarwienia, zaczerwienienia i przejrzystość skóry.",
+    "intro": "IPL dostarcza kontrolowane impulsy światła do melaniny i chromoforów naczyniowych. To filar fotoodmładzania przy odpowiednim typie skóry Fitzpatricka i odpowiedzialnym podejściu do słońca.",
+    "benefits": [
+      "Łagodzi widoczność plam słonecznych i rozproszonego rumienia",
+      "Stymuluje przebudowę kolagenu w serii zabiegów",
+      "Krótkie sesje z minimalnym czasem przestoju dla wielu typów skóry",
+      "Dobrze łączy się z profesjonalną pielęgnacją domową"
+    ],
+    "idealFor": [
+      "Klienci przestrzegający SPF i zaleceń przed/po",
+      "Wczesne foto starzenie bez głębokiego chirurgicznego obwisania",
+      "Osoby po konsultacji skórnej i teście łatkowym"
+    ],
+    "sessionNote": "Nie dla wszystkich fototypów i schorzeń; kwalifikacja po dokładnej konsultacji."
+  },
+  "laser-hair-removal": {
+    "title": "Depilacja laserowa",
+    "shortTitle": "Depilacja laserowa",
+    "tagline": "Stopniowa redukcja niechcianego owłosienia z kalibracją parametrów lasera.",
+    "intro": "Laser celuje w melaninę mieszka, zakłócając cykle wzrostu. Potrzebna jest seria, bo włosy są w różnych fazach. Dbamy o bezpieczeństwo oczu, chłodzenie i realistyczne oczekiwania co do redukcji vs trwałości.",
+    "benefits": [
+      "Oszczędza czas w porównaniu z goleniem lub woskiem",
+      "Zmniejsza wrastające włosy i podrażnienia w gęstych strefach",
+      "Precyzja dla pach, bikini, twarzy lub dużych partii ciała",
+      "Przewidywalny harmonogram co kilka tygodni"
+    ],
+    "idealFor": [
+      "Klienci unikający opalania przed i między wizytami",
+      "Osoby zmęczone podrażnieniem po goleniu lub przeciwwskazaniami do wosku",
+      "Każdy chcący gładszej skóry ze sportu, podróży lub wygody"
+    ],
+    "sessionNote": "Leki i stany hormonalne mogą zmieniać odpowiedź — zgłoś wszystko na konsultacji."
+  },
+  "hydrafacial": {
+    "title": "HydraFacial",
+    "shortTitle": "HydraFacial",
+    "tagline": "Inspirowana medycyną hydradermabrazja dla blasku bez surowego przestoju.",
+    "intro": "Zabieg w stylu HydraFacial oczyszcza, złuszcza, oczyszcza pory i wprowadza serum w jednym płynnym protokole. Sprawdza się przed wydarzeniem lub co miesiąc, gdy chcesz równy blask bez agresywnego peelingu.",
+    "benefits": [
+      "Natychmiastowy blask i wygładzenie faktury",
+      "Delikatne oczyszczanie z ssaniem wirowym zamiast agresywnego wyciskania",
+      "Booster serum na pigment, zanieczyszczenia lub drobne linie",
+      "Komfort dla wielu typów skóry przez cały rok z doborem końcówek"
+    ],
+    "idealFor": [
+      "Panny młode, prelegenci i fotografowie potrzebujący skóry „gotowej na kamerę”",
+      "Zanieczyszczona, ale wrażliwa skóra źle tolerująca klasyczne peelingi",
+      "Każdy zaczynający profesjonalną pielęgnację"
+    ]
+  },
+  "microdermabrasion": {
+    "title": "Mikrodermabrazja",
+    "shortTitle": "Mikrodermabrazja",
+    "tagline": "Kontrolowana eksfoliacja dla faktury i lepszej absorpcji kosmetyków.",
+    "intro": "Mikrodermabrazja usuwa martwy naskórek kryształami lub głowicą diamentową, zmiękcza szorstkość i pomaga aktywnym składnikom penetrować. Stosowana przy łagodnym foto starzeniu, keratosis pilaris na ramionach lub sezonowym odświeżeniu skóry.",
+    "benefits": [
+      "Wygładza powierzchowną szorstkość i matowy ton",
+      "Optycznie zmniejsza pory przy dobrej pielęgnacji domowej",
+      "Równomierne złuszczanie w serii",
+      "Zakończenie łagodzącą maską nawilżającą"
+    ],
+    "idealFor": [
+      "Klienci z niezapalnymi bliznami potrądzikowymi lub teksturą",
+      "Osoby chcące okresowej eksfoliacji bez głębokich peelingów kwasowych",
+      "Strefy ciała: barki, ramiona o szorstkiej skórze"
+    ],
+    "sessionNote": "Zaostrzenie trądziku różowatego, otwarte zmiany lub izotretinoina — wymagają odroczenia; kwalifikacja chroni bezpieczeństwo."
+  }
+}

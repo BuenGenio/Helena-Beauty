@@ -1,0 +1,196 @@
+{
+  "lymphatic-drainage-post-op": {
+    "title": "Lymphatic drainage & post-operative care",
+    "shortTitle": "Lymphatic drainage",
+    "tagline": "Gentle, rhythmic work to support recovery and comfort after surgery or swelling.",
+    "intro": "Manual lymphatic drainage uses light, precise movements to encourage lymph flow. It is often chosen after cosmetic or orthopaedic procedures, or when legs and arms feel persistently heavy. Sessions are calm, unhurried, and tailored to your stage of recovery.",
+    "benefits": [
+      "May help reduce feelings of tightness and heaviness in treated areas",
+      "Supports your body’s natural fluid balance when combined with rest and medical guidance",
+      "Calming touch that lowers stress responses during recovery windows",
+      "Can complement post-op instructions from your surgeon when clearance is given"
+    ],
+    "idealFor": [
+      "People in a cleared post-operative phase seeking adjunct comfort care",
+      "Anyone prone to limb heaviness from travel, desk work, or pregnancy (with clinician sign-off)",
+      "Those preparing for surgery who want education on gentle movement and self-care"
+    ],
+    "sessionNote": "Always follow your surgeon or GP’s advice. Lymphatic work is supportive, not a substitute for medical treatment."
+  },
+  "sport-recovery-massage": {
+    "title": "Sport & recovery massage",
+    "shortTitle": "Sport massage",
+    "tagline": "Targeted work for tired muscles, training blocks, and bounce-back between sessions.",
+    "intro": "Sports-oriented massage blends deeper pressure where appropriate with flushing strokes that aid recovery. The focus is on the muscle groups you stress most—whether you run, lift, swim, or play team sports—so you leave feeling looser and more aware of your body.",
+    "benefits": [
+      "Helps ease delayed-onset soreness after hard training days",
+      "Improves local circulation to support tissue repair",
+      "Releases habitual tension around shoulders, hips, and calves",
+      "Offers a reset for posture and breathing before your next workout"
+    ],
+    "idealFor": [
+      "Runners, cyclists, and gym-goers in regular training cycles",
+      "Weekend warriors ramping up mileage or intensity",
+      "Anyone returning to activity after a short break who wants structured soft-tissue care"
+    ]
+  },
+  "back-problems-massage": {
+    "title": "Back-focused therapeutic massage",
+    "shortTitle": "Back massage",
+    "tagline": "Thoughtful attention to the spine, hips, and shoulders that carry daily load.",
+    "intro": "Back discomfort often links to desk posture, manual jobs, stress guarding, or old injuries. This session maps tension patterns from neck to pelvis, then uses a mix of myofascial techniques, trigger point work, and soothing strokes to restore ease of movement.",
+    "benefits": [
+      "Reduces guarding in the upper and lower back",
+      "Improves awareness of posture and breathing habits",
+      "Eases referral tightness into the glutes and hamstrings",
+      "Creates space for gentle mobility homework between visits"
+    ],
+    "idealFor": [
+      "Office workers with stiff thoracic spines and tight hip flexors",
+      "Parents and carers who lift and twist often",
+      "Tradespeople and drivers needing maintenance between physio sessions"
+    ],
+    "sessionNote": "If you have acute disc injury, nerve symptoms, or recent trauma, please seek medical assessment first."
+  },
+  "ems-tens-recovery": {
+    "title": "EMS / TENS muscle recovery",
+    "shortTitle": "EMS / TENS",
+    "tagline": "Electrical modalities to wake up sluggish muscles and calm overactive ones.",
+    "intro": "Electrical muscle stimulation (EMS) and transcutaneous electrical nerve stimulation (TENS) are add-ons that can sit alongside hands-on work. EMS encourages contraction patterns useful for re-education; TENS focuses on sensory pathways to modulate discomfort when appropriate.",
+    "benefits": [
+      "EMS can help reintroduce controlled firing after immobilisation",
+      "TENS may offer short-term sensory relief for certain pain presentations",
+      "Useful bridge between massage sessions for athletes on tight schedules",
+      "Personalised pad placement respects your comfort and safety thresholds"
+    ],
+    "idealFor": [
+      "Athletes cleared for adjunct recovery tools",
+      "Clients combining manual therapy with active rehab plans",
+      "People curious about non-pharmacological comfort strategies"
+    ],
+    "sessionNote": "Contraindications include pregnancy (unless cleared), pacemakers, epilepsy, and certain skin conditions—disclose full health history beforehand."
+  },
+  "wood-therapy": {
+    "title": "Wood therapy (maderoterapia)",
+    "shortTitle": "Wood therapy",
+    "tagline": "Sculpting wooden tools designed to mobilise tissue and refine silhouette.",
+    "intro": "Wood therapy employs ergonomically shaped implements to rhythmically stimulate the skin and superficial fascia. The technique is popular for body contour goals because it feels invigorating yet structured, with measurable attention to each zone.",
+    "benefits": [
+      "Encourages microcirculation and a fresh, toned appearance",
+      "Helps break up stagnant areas when paired with hydration and movement",
+      "Offers firm pressure without the fatigue of hands-only work",
+      "Can be sequenced with manual massage for a comprehensive body session"
+    ],
+    "idealFor": [
+      "Clients targeting thighs, abdomen, arms, or back for contour support",
+      "People who enjoy deeper, rhythmic bodywork with clear patterns",
+      "Anyone maintaining results between other body treatments"
+    ]
+  },
+  "tummy-tuck-support": {
+    "title": "Tummy tuck support sessions",
+    "shortTitle": "Tummy tuck care",
+    "tagline": "Specialist aftercare that respects healing timelines and surgeon protocols.",
+    "intro": "Abdominoplasty recovery benefits from patient, educated touch. Once you have written clearance, sessions can focus on gentle lymphatic-style work, scar mobility education, and breathing strategies that protect your repair while restoring confidence in movement.",
+    "benefits": [
+      "Supports compliance with compression and positioning guidance",
+      "Addresses fibrotic feeling tissue with techniques matched to healing stage",
+      "Reassures you through normal recovery fluctuations",
+      "Coordinates pacing with your clinical team’s milestones"
+    ],
+    "idealFor": [
+      "Post-abdominoplasty clients with explicit surgeon approval for massage",
+      "Anyone seeking structured aftercare beyond DIY foam rolling",
+      "Individuals who want empathetic support during the weeks after surgery"
+    ],
+    "sessionNote": "Written medical clearance and transparent communication with your surgical team are mandatory."
+  },
+  "body-contouring": {
+    "title": "Body contouring",
+    "shortTitle": "Body contouring",
+    "tagline": "Non-surgical approaches to refine shape, texture, and firmness over time.",
+    "intro": "Body contouring combines assessment, hands-on methods, and sometimes technology-assisted protocols to smooth and tighten targeted areas. Plans are realistic: results build across visits alongside hydration, nutrition, and activity.",
+    "benefits": [
+      "Personalised mapping of priority zones such as waist, flanks, or upper arms",
+      "Blends manual techniques with adjunct tools when suitable",
+      "Education on home rituals that extend professional results",
+      "Progress photos optional to celebrate incremental change"
+    ],
+    "idealFor": [
+      "Clients near their stable weight who want refinement, not rapid weight loss",
+      "People bridging between gym progress and event deadlines",
+      "Anyone preferring incremental, non-surgical shaping pathways"
+    ]
+  },
+  "ipl": {
+    "title": "IPL (Intense Pulsed Light)",
+    "shortTitle": "IPL",
+    "tagline": "Broad-spectrum light for pigment, redness, and overall skin clarity.",
+    "intro": "IPL delivers controlled pulses of light to target melanin and vascular chromophores. It is a cornerstone for photo rejuvenation when skin is assessed as suitable Fitzpatrick types and sun habits are managed responsibly.",
+    "benefits": [
+      "Softens the appearance of sun spots and diffuse redness",
+      "Stimulates collagen remodelling over a course of treatments",
+      "Quick sessions with minimal downtime for many skin types",
+      "Pairs well with medical-grade skincare for amplified results"
+    ],
+    "idealFor": [
+      "Clients committed to SPF and pre/post care instructions",
+      "Those addressing early photoaging rather than deep surgical laxity",
+      "People who have completed a professional skin consultation and patch test"
+    ],
+    "sessionNote": "Not suitable for all skin tones or conditions; a thorough consultation determines candidacy."
+  },
+  "laser-hair-removal": {
+    "title": "Laser hair removal",
+    "shortTitle": "Laser hair removal",
+    "tagline": "Gradual reduction of unwanted hair with calibrated laser parameters.",
+    "intro": "Laser hair removal targets melanin in the follicle to disrupt growth cycles. Multiple sessions are required because hairs rest in different phases. We emphasise eye safety, cooling comfort, and honest expectations about permanence versus reduction.",
+    "benefits": [
+      "Saves long-term time compared with shaving or waxing",
+      "Reduces ingrown hairs and irritation in coarse growth areas",
+      "Precision for underarms, bikini, face, or larger body zones",
+      "Predictable scheduling spaced weeks apart for optimal catch of active follicles"
+    ],
+    "idealFor": [
+      "Clients who can avoid tanning before and between appointments",
+      "People frustrated by razor burn or waxing contraindications",
+      "Anyone seeking smoother skin for sport, travel, or personal preference"
+    ],
+    "sessionNote": "Medications and hormonal conditions can affect response—disclose everything during consultation."
+  },
+  "hydrafacial": {
+    "title": "HydraFacial",
+    "shortTitle": "HydraFacial",
+    "tagline": "Medical-inspired hydradermabrasion for glow without harsh downtime.",
+    "intro": "HydraFacial-style treatments cleanse, exfoliate, extract, and infuse serums in one flowing protocol. It suits event prep or monthly maintenance when you want polished radiance without aggressive peeling.",
+    "benefits": [
+      "Immediate luminosity and refined texture",
+      "Gentle extractions with vortex suction instead of aggressive picking",
+      "Custom booster serums for pigment, congestion, or fine lines",
+      "Comfortable for many skin types year-round with adjusted tips"
+    ],
+    "idealFor": [
+      "Brides, speakers, or photographers needing camera-ready skin",
+      "Congested yet sensitive skin that tolerates traditional peels poorly",
+      "Anyone beginning a professional skincare journey"
+    ]
+  },
+  "microdermabrasion": {
+    "title": "Microdermabrasion",
+    "shortTitle": "Microdermabrasion",
+    "tagline": "Controlled exfoliation to renew texture and product absorption.",
+    "intro": "Microdermabrasion uses fine crystals or diamond tips to lift dead cells, softening roughness and helping active ingredients penetrate. It remains a trusted staple for mild photoaging, keratosis pilaris on arms, or pre-season skin resets.",
+    "benefits": [
+      "Smooths superficial roughness and dull tone",
+      "Minimises the look of enlarged pores when combined with good home care",
+      "Encourages even shedding when performed in a series",
+      "Pairs with calming masks to finish on a hydrated note"
+    ],
+    "idealFor": [
+      "Clients with non-inflamed acne scarring or textural concerns",
+      "People wanting periodic exfoliation without deep chemical peels",
+      "Body zones such as shoulders or arms with rough texture"
+    ],
+    "sessionNote": "Active rosacea flares, open lesions, or isotretinoin use require postponement—screening keeps you safe."
+  }
+}
